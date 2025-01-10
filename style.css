@@ -103,7 +103,7 @@ article{
 
 h1{
     font-family: 'idroid', arial, sans-serif;
-    text-align: justify;
+    text-align: left;
     font-size: 1.8em;
     font-weight: normal;
     color: #063d1e;
@@ -172,7 +172,6 @@ li{
 
 li::before{
     content: '✔';
-    margin-right: 10px;
 }
 
 footer{
